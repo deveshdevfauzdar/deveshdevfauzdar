@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&repeat=true&width=700&lines=Immersive+Frontend+Developer;>_Data+Science+%26+Analytics+Student;>_AI+Engineer+%26+Automation+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&repeat=true&width=700&lines=Immersive+Frontend+Developer;>_Data+Science+%26+Programming+Student;>_AI+Engineer+%26+Automation+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 const devesh: Developer = {
   roles: ["Frontend Developer", "Data Science Student", "AI Engineer"],
   mission: "Bridging the gap between cutting-edge AI models and visually stunning, highly interactive web applications.",
-  focus: ["WebGL / Three.js", "Generative AI", "Data Pipelines", "Automation"],
+  focus: ["Three.js", "Generative AI", "Data Pipelines", "Automation"],
   status: "Deploying immersive digital experiences..."
 };
 ```
