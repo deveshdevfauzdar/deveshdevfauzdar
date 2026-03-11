@@ -257,7 +257,7 @@ Structured LLM agent workflows — tool use, retry logic, prompt engineering. Ma
 <td width="50%" valign="top">
 
 **studying**
-Going deeper into ML systems design and scalable agent architecture. Reading more math than is probably necessary.
+Going deeper into data science systems design and scalable agent architecture. Reading more math than is probably necessary.
 
 **building**
 A project I keep thinking about at weird hours. More on that soon.
