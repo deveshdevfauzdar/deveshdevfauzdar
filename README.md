@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=23&pause=1400&color=F0C040&background=00000000&center=true&vCenter=true&width=700&height=55&lines=building+interfaces+people+actually+enjoy+using;LLM+agents;Next.js+%C2%B7+TypeScript+%C2%B7+Three.js+%C2%B7+Python;where+mathematics+meets+design;turning+data+into+decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=23&pause=1400&color=F0C040&background=00000000&center=true&vCenter=true&width=700&height=55&lines=building+interfaces+people+actually+enjoy+using;LLM+agents+that+hold+up+in+production;Next.js+%C2%B7+TypeScript+%C2%B7+Three.js+%C2%B7+Python;where+mathematics+meets+design;turning+data+into+decisions" />
 
 <br/><br/>
 
@@ -291,6 +291,7 @@ Internships in frontend engineering, ML/data, or AI systems. Open to remote and 
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=f0c040)](https://devesh-portfolio-frontend-dev-44y8.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=7ec8e3)](https://linkedin.com/in/devesh-dev-fauzdar-3ab06b395)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/deveshdevfauzdar)
 [![Email](https://img.shields.io/badge/Gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=e8795a)](mailto:devesh.d.fauzdar@gmail.com)
