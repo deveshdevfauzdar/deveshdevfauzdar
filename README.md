@@ -1,89 +1,146 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=250&section=header&text=DEVESH_DEV_FAUZDAR&fontSize=60&fontColor=00ffcc&fontAlignY=35&desc=System_Initialized...&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+
+<!-- STARRY NIGHT HEADER — animated swirling sky -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a2e,25:0d1b4b,50:1a2f6b,75:0f3460,100:1a1a4e&text=Devesh%20Fauzdar&fontSize=52&fontColor=e8d5a3&fontAlignY=55&desc=crafting%20code%20like%20brushstrokes%20on%20a%20midnight%20canvas&descSize=16&descAlignY=72&descColor=a8c5da&animation=fadeIn&stroke=2f4a8a&strokeWidth=2" width="100%"/>
+
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&repeat=true&width=700&lines=Immersive+Frontend+Developer;>_Data+Science+%26+Programming+Student;>_AI+Engineer+%26+Automation+Specialist" alt="Typing SVG" />
-  </a>
+
+<!-- Animated typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1200&color=E8C97A&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%8C%8C;Building+things+that+matter+%E2%9C%A8;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 ---
 
-### ▒▒ ALIGNMENT & OBJECTIVES ▒▒
+<br/>
 
-```typescript
-const devesh: Developer = {
-  roles: ["Frontend Developer", "Data Science Student", "AI Engineer"],
-  mission: "Bridging the gap between cutting-edge AI models and visually stunning, highly interactive web applications.",
-  focus: ["Three.js", "Generative AI", "Data Pipelines", "Automation"],
-  status: "Deploying immersive digital experiences..."
-};
-```
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
-<br>
+## 🌌 &nbsp;who i am
 
-### ▒▒ CORE PROTOCOLS ▒▒
+hey, i'm **Devesh** — a developer who believes good code, like good art, has a feeling to it. i spend most of my time building full-stack web apps, tinkering with APIs at odd hours, and occasionally staring at a bug for way too long before realizing it's a missing semicolon.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00ffcc&height=80&section=header&text=Frontend_Architecture&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
+when i'm not coding, i'm probably listening to music that's too sad for the weather outside, or reading something that has nothing to do with tech.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00ffcc&height=80&section=header&text=AI_%26_Data_Engineering&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</div>
+i care about **clean architecture**, **honest UX**, and shipping things that actually work.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00ffcc&height=80&section=header&text=Infrastructure_%26_Automation&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
+<br/>
 
-<br>
+**currently:**
+- 🔭 &nbsp;building something I can't shut up about
+- 🌱 &nbsp;going deeper into cloud infra & system design  
+- 💬 &nbsp;always up to talk about dev, ideas, or random curiosities
+- ⚡ &nbsp;fun fact: Van Gogh painted Starry Night in an asylum. sometimes constraints unlock brilliance.
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<br/>
+
+<!-- GitHub stats card — dark starry theme -->
+<img src="https://github-readme-stats.vercel.app/api?username=deveshdevfauzdar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e8c97a&icon_color=7ec8e3&text_color=c9d1d9&ring_color=2f4a8a&border_radius=12" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=deveshdevfauzdar&theme=midnight-purple&hide_border=true&background=0D1117&ring=E8C97A&fire=7EC8E3&currStreakLabel=E8C97A&border_radius=12" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-### ▒▒ SYSTEM CAPABILITIES ▒▒
+## 🎨 &nbsp;the stack i work with
 
-#### 🌌 **Immersive Frontend Development**
-> Translating high-level designs into fluid, performant, and GPU-accelerated web experiences. Utilizing **React, Next.js, and WebGL (Three.js)** to create interactive data visualizations and premium user interfaces that break out of the standard DOM grid.
+<div align="center">
 
-#### 🧠 **AI Engineering & Automation**
-> Designing intelligent, context-aware autonomous agents and automating repetitive workflows. Focused on reducing model hallucinations, prompt engineering, and integrating LLMs securely via **LangChain and Python** to create reliable, production-ready AI tools.
+<!-- Languages -->
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=E8C97A)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=7EC8E3)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a8c5da)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e8795a)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=7EC8E3)
 
-#### 📊 **Data Science & Analytics**
-> Extracting meaning from chaos. Proficient in statistical correlation, behavioral pattern analysis, and market data processing (like sentiment analysis). Utilizing Jupyter, Pandas, and foundational mathematical principles to drive data-backed decision-making.
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=7EC8E3)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=68a063)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=7EC8E3)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=e8795a)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7EC8E3)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=E8C97A)
+
+</div>
+
+<br/>
 
 ---
 
-### ▒▒ TRANSMISSION LINKS ▒▒
+## 🌠 &nbsp;activity graph
 
 <div align="center">
-  <a href="https://devesh-portfolio-frontend-dev-44y8.vercel.app">
-    <img src="https://img.shields.io/badge/Initialize_Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=00ffcc" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/devesh-dev-fauzdar-3ab06b395">
-    <img src="https://img.shields.io/badge/Establish_Connection-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:devesh.d.fauzdar@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshdevfauzdar&bg_color=0d1117&color=e8c97a&line=2f4a8a&point=7ec8e3&area=true&area_color=2f4a8a&hide_border=true&radius=12" width="95%"/>
 </div>
+
+<br/>
+
+---
+
+## 🌙 &nbsp;top languages
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshdevfauzdar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e8c97a&text_color=c9d1d9&border_radius=12&langs_count=8" width="50%"/>
+</div>
+
+<br/>
+
+---
+
+## 📡 &nbsp;find me in the void
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7EC8E3)](https://linkedin.com/in/deveshdevfauzdar)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=7EC8E3)](https://twitter.com/deveshdevfauzdar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=E8C97A)](https://deveshdevfauzdar.dev)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e8795a)](mailto:deveshdevfauzdar@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=deveshdevfauzdar&style=for-the-badge&color=2f4a8a&label=STARGAZERS)
+
+<br/><br/>
+
+<!-- Footer wave in starry night palette -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a4e,50:0f3460,100:0a0a2e&section=footer&reversal=false" width="100%"/>
+
+</div>
+
+<!-- 
+
+  "I dream of painting and then I paint my dream." — Van Gogh
+  
+  feel free to reach out. always happy to collab, learn, or just talk.
+
+-->
