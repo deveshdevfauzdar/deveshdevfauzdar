@@ -30,18 +30,18 @@
 
 ### `~$ whoami`
 
-Dual-degree student at **IIT Madras** (Data Science) and **University of Delhi** (Mathematics). I sit at the cross-section of systems that *think* and interfaces that *feel* — and I genuinely like it there.
+Dual-degree student at **IIT Madras** (Data Science) and **University of Delhi** (Mathematics). I sit at the cross-section of systems that *think* and interfaces that *feel*, and I genuinely like it there.
 
 I build frontends people enjoy using, work with real data to find things worth finding, and engineer LLM agents that don't fall apart when you actually use them. Strong opinions on clean architecture, honest design, and shipping things that work.
 
-Outside the screen — astronomy, robotics, and occasionally reading something with nothing to do with tech.
+Outside the screen: astronomy, robotics, and occasionally reading something with nothing to do with tech.
 
 <br/>
 
 ```python
 devesh = {
   "currently_building" : "something I can't stop thinking about",
-  "obsessing_over"     : ["scalable agent architectures", "WebGL + creative coding"],
+  "obsessing_over"     : ["scalable agent architectures", "applied data science"],
   "studying"           : "Data Science @ IIT Madras  +  Mathematics @ Univ. of Delhi",
   "open_to"            : "internships, collabs, interesting problems",
   "fun_fact"           : "Van Gogh painted Starry Night inside an asylum"
@@ -134,7 +134,7 @@ devesh = {
 
 **Frontend Engineer**
 
-Next.js, React, TypeScript, Three.js. I build interfaces that feel fast and look like someone actually thought about them — landing pages to 3D in the browser.
+Next.js, React, TypeScript, Three.js. I build interfaces that feel fast and look like someone actually thought about them. Landing pages to 3D in the browser.
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -155,7 +155,7 @@ Next.js, React, TypeScript, Three.js. I build interfaces that feel fast and look
 
 **Data Science Student**
 
-Dual-degree in Data Science (IIT Madras) and Mathematics (Delhi University). Real datasets, statistical analysis, pattern detection — Python-first, always.
+Studying statistics, ML foundations, algorithms, deep learning and data modelling at IIT Madras. Paired with a Mathematics degree at Delhi University so the theory actually makes sense, not just the code.
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -173,7 +173,7 @@ Dual-degree in Data Science (IIT Madras) and Mathematics (Delhi University). Rea
 
 **AI Systems Builder**
 
-Structured LLM agent workflows — tool use, retry logic, prompt engineering. Making AI reliable enough to actually ship, not just demo.
+Structured LLM agent workflows: tool use, retry logic, prompt engineering. Making AI reliable enough to actually ship, not just demo.
 
 </td>
 </tr>
@@ -257,7 +257,7 @@ Structured LLM agent workflows — tool use, retry logic, prompt engineering. Ma
 <td width="50%" valign="top">
 
 **studying**
-Going deeper into data science systems design and scalable agent architecture. Reading more math than is probably necessary.
+Going deeper into ML systems design and scalable agent architecture. Reading more math than is probably necessary.
 
 **building**
 A project I keep thinking about at weird hours. More on that soon.
@@ -266,7 +266,7 @@ A project I keep thinking about at weird hours. More on that soon.
 <td width="50%" valign="top">
 
 **exploring**
-Creative coding with WebGL and Three.js. The intersection of math and visual art is genuinely underrated.
+The math behind data: probability, statistics, linear algebra. The kind of stuff that makes models actually make sense.
 
 **available for**
 Internships in frontend engineering, ML/data, or AI systems. Open to remote and Delhi-based opportunities.
