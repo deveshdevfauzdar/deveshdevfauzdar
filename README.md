@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=23&pause=1400&color=F0C040&background=00000000&center=true&vCenter=true&width=700&height=55&lines=building+interfaces+people+actually+enjoy+using;LLM+agents+that+hold+up+in+production;Next.js+%C2%B7+TypeScript+%C2%B7+Three.js+%C2%B7+Python;where+mathematics+meets+design;turning+data+into+decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=23&pause=1400&color=F0C040&background=00000000&center=true&vCenter=true&width=700&height=55&lines=building+interfaces+people+actually+enjoy+using;LLM+agents;Next.js+%C2%B7+TypeScript+%C2%B7+Three.js+%C2%B7+Python;where+mathematics+meets+design;turning+data+into+decisions" />
 
 <br/><br/>
 
