@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=290&color=0:0a0e27,20:0d1540,45:1a3a6b,70:2255a4,100:0a0e27&text=Devesh%20Dev%20Fauzdar&fontSize=46&fontColor=f0c040&fontAlignY=52&desc=frontend%20engineer%20%C2%B7%20data%20science%20student%20%C2%B7%20ai%20systems%20builder&descSize=15&descColor=7ec8e3&descAlignY=70&animation=fadeIn&stroke=f0c040&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=290&color=0:0a0e27,20:0d1540,45:1a3a6b,70:2255a4,100:0a0e27&text=Devesh%20Dev%20Fauzdar&fontSize=46&fontColor=f0c040&fontAlignY=52&desc=frontend%20engineer%20%C2%B7%20mobile%20application%20developer%20%C2%B7%20ai%20systems%20builder&descSize=15&descColor=7ec8e3&descAlignY=70&animation=fadeIn&stroke=f0c040&strokeWidth=1"/>
 
 <br/>
 
